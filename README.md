@@ -1,0 +1,2 @@
+# Scramblies
+*STRINGS *ALGORITHMS
